@@ -18,3 +18,4 @@ const client = new Client();
 })();
 
 module.exports.bot = client;
+/modules
